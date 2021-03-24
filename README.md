@@ -1,0 +1,2 @@
+A web app to help search for a particular meal or random meal which returns the meal as well as ingredients and steps to prepare such meal.
+This was built using html, css, javascript and theMealDb api.
